@@ -1,0 +1,9 @@
+{
+  "name": "faculty-platform",
+  "version": "1.0.0",
+  "description": "Faculty platform web project.",
+  "main": "index.html",
+  "scripts": {},
+  "author": "",
+  "license": "MIT"
+}
